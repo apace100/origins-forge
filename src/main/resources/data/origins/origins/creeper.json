@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"origins:gunpowder_resource",
+		"origins:explosion"
+	],
+	"icon": [
+		"minecraft:gunpowder"
+	],
+	"order": 4
+}

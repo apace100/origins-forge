@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:water_breathing",
+		"origins:water_speed",
+		"origins:water_vision",
+		"origins:water_digging"
+	],
+	"icon": [
+		"minecraft:cod"
+	],
+	"order": 5
+}

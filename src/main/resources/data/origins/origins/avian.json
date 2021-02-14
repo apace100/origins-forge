@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:run_boost",
+		"origins:slow_fall",
+		"origins:vegetarian",
+		"origins:high_bed"
+	],
+	"icon": [
+		"minecraft:feather"
+	],
+	"order": 2
+}

@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:fire_immunity",
+		"origins:throw_fireball",
+		"origins:no_ranged",
+		"origins:hurtful_water"
+	],
+	"icon": [
+		"minecraft:blaze_powder"
+	],
+	"order": 6
+}

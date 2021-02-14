@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:invisibility",
+		"origins:burn_in_daylight",
+		"origins:lifesteal",
+		"origins:colorblind",
+		"origins:night_vision",
+		"origins:no_food_regen"
+	],
+	"icon": [
+		"minecraft:phantom_membrane"
+	],
+	"order": 5
+}

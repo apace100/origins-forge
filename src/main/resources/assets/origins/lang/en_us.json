@@ -1,0 +1,162 @@
+{
+	"origin.origins.human.name": "Human",
+	"origin.origins.avian.name": "Avian",
+	"origin.origins.merling.name": "Merling",
+	"origin.origins.blazeborn.name": "Blazeborn",
+	"origin.origins.phantom.name": "Phantom",
+	"origin.origins.enderian.name": "Enderian",
+	"origin.origins.arachnid.name": "Arachnid",
+	"origin.origins.golem.name": "Golem",
+	"origin.origins.ent.name": "Ent",
+	"origin.origins.feline.name": "Feline",
+	
+	"power.origins.potion_efficiency.name": "Effective Magic",
+	"power.origins.potion_efficiency.desc": "Due to your ordinary nature, beneficial potions work for twice as long as for those of other origins.",
+	
+	"power.origins.water_digging.name": "Aqua Affinity",
+	"power.origins.water_digging.desc": "You may break blocks underwater as others would on land.",
+	
+	"power.origins.water_speed.name": "Fins",
+	"power.origins.water_speed.desc": "Your swim speed is drastically increased.",
+	
+	"power.origins.water_vision.name": "Wet Eyes",
+	"power.origins.water_vision.desc": "You can see perfectly underwater.",
+	
+	"power.origins.water_breathing.name": "Gills",
+	"power.origins.water_breathing.desc": "You have gills instead of lungs. You may breathe underwater, but only stay out of water for a minute before suffocating.",
+	
+	"power.origins.fire_immunity.name": "Fire Immunity",
+	"power.origins.fire_immunity.desc": "You are immune to all types of fire damage.",
+	
+	"power.origins.throw_fireball.name": "Fireballs",
+	"power.origins.throw_fireball.desc": "You are able to launch fireballs at your foes by right-clicking with an empty hand.",
+	
+	"power.origins.no_ranged.name": "Clumsy",
+	"power.origins.no_ranged.desc": "You can not use any type of ranged weapon.",
+	
+	"power.origins.hurtful_water.name": "Hydrophobia",
+	"power.origins.hurtful_water.desc": "Being in contact with water hurts you.",
+	
+	"power.origins.throw_ender_pearl.name": "Teleportation",
+	"power.origins.throw_ender_pearl.desc": "Right-clicking with an empty hand will throw an ender pearl which deals no damage, allowing you to teleport.",
+	
+	"power.origins.no_pumpkin_pie.name": "Scared of Gourds",
+	"power.origins.no_pumpkin_pie.desc": "You really, really don't want to eat any pumpkin.",
+	
+	"power.origins.run_boost.name": "Tailwind",
+	"power.origins.run_boost.desc": "You are a little bit quicker on foot than others.",
+	
+	"power.origins.slow_fall.name": "Featherweight",
+	"power.origins.slow_fall.desc": "You fall as gently to the ground as a feather would, unless you sneak.",
+	
+	"power.origins.vegetarian.name": "Vegetarian",
+	"power.origins.vegetarian.desc": "You can't digest any meat.",
+	
+	"power.origins.high_bed.name": "Fresh Air",
+	"power.origins.high_bed.desc": "When sleeping, your bed needs to be at an altitude of at least 86 blocks, so you can breathe fresh air.",
+	
+	"power.origins.invisibility.name": "Invisibility",
+	"power.origins.invisibility.desc": "You can turn invisible at will by right-clicking with an empty hand. Being invisible makes you hungry, and you can't be invisible when you can't sprint anymore.",
+	
+	"power.origins.no_attacks.name": "Pacifism",
+	"power.origins.no_attacks.desc": "You can't attack any living being in combat while you are invisible.",
+	
+	"power.origins.only_meat.name": "Carnivore",
+	"power.origins.only_meat.desc": "Your diet is restricted to meat, you can't eat vegetables.",
+	
+	"power.origins.less_hp.name": "Fragile",
+	"power.origins.less_hp.desc": "You have less health than other origins.",
+	
+	"power.origins.climbing.name": "Climbing",
+	"power.origins.climbing.desc": "You are able to climb up any kind of wall, not just ladders.",
+	
+	"power.origins.inflict_poison.name": "Venomous",
+	"power.origins.inflict_poison.desc": "Your attacks inflict poison for a few seconds.",
+	
+	"power.origins.bad_sun_vision.name": "Accomodated",
+	"power.origins.bad_sun_vision.desc": "You are used to being in the dark, you see less when in the sunlight.",
+	
+	"power.origins.natural_armor.name": "Sturdy",
+	"power.origins.natural_armor.desc": "Your strong skin grants you natural defenses.",
+	
+	"power.origins.slowness.name": "Lethargy",
+	"power.origins.slowness.desc": "When you get hungry, you become slower.",
+	
+	"power.origins.poison_damage.name": "Venomous",
+	"power.origins.poison_damage.desc": "Your damage is dealt over time with a powerful poison effect.",
+	
+	"power.origins.poison_immunity.name": "Natural Antidote",
+	"power.origins.poison_immunity.desc": "You are immune to poison.",
+	
+	"power.origins.extra_inventory.name": "Heavy Lifter",
+	"power.origins.extra_inventory.desc": "Due to your immense strength, you are able to carry 9 additional stacks of items.",
+	
+	"power.origins.no_shield.name": "Unwieldy",
+	"power.origins.no_shield.desc": "The way your hands are built provides no way of holding a shield upright.",
+	
+	"power.origins.jump_boost.name": "Powerful Ankles",
+	"power.origins.jump_boost.desc": "You may jump about twice as high as usual when sprinting.",
+	
+	"power.origins.spiderweb.name": "Webbing",
+	"power.origins.spiderweb.desc": "Enemies you attack get stuck in temporary cobwebs. Cobweb has no slowing effect on you and you can climb in it.",
+	
+	"power.origins.burn_forever.name": "Highly Flammable",
+	"power.origins.burn_forever.desc": "When you are set on fire, you never stop burning, unless you step into water.",
+	
+	"power.origins.hurt_on_log_break.name": "One with the Forest",
+	"power.origins.hurt_on_log_break.desc": "You sometimes take damage when you cut the trunk of a tree.",
+	
+	"power.origins.lucky_composter.name": "Naturally Specialized",
+	"power.origins.lucky_composter.desc": "You always succeed when putting plant matter into the composter.",
+	
+	"power.origins.more_xp.name": "Wisdom of the Ancients",
+	"power.origins.more_xp.desc": "You gain more experience than those of other Origins.",
+	
+	"power.origins.photosynthesis.name": "Photosynthesis",
+	"power.origins.photosynthesis.desc": "You can feed on the raw energy of the sunlight.",
+	
+	"power.origins.super_less_hp.name": "On the Brink",
+	"power.origins.super_less_hp.desc": "Your health is reduced by a large amount.",
+	
+	"power.origins.scare_creepers.name": "Catlike Appearance",
+	"power.origins.scare_creepers.desc": "Creepers are scared of you.",
+	
+	"power.origins.no_fall_damage.name": "Acrobatic",
+	"power.origins.no_fall_damage.desc": "You do not take damage from falling.",
+	
+	"power.origins.nine_lives.name": "Nine Lives",
+	"power.origins.nine_lives.desc": "You have 9 lives.",
+	
+	"power.origins.weak_stone_breaking.name": "Weak Arms",
+	"power.origins.weak_stone_breaking.desc": "You may only break stone with pickaxes, and even then only when there are at most three other stone blocks nearby (unless under the effect of a Strength potion).",
+	
+	"enchantment.origins.water_protection": "Water Protection",
+	
+	"origins.gui.choose_origin.title": "Choose your Origin.",
+	"origins.gui.view_origin.title": "This is your Origin.",
+	"origins.gui.close": "Close",
+	"origins.gui.select": "Select",
+	
+	"item.origins.orb_of_origin": "Orb of Origin",
+	
+	"item.minecraft.potion.effect.air_breathing": "Potion of Air Breathing",
+	"item.minecraft.potion.effect.long_air_breathing": "Potion of Air Breathing",
+	"item.minecraft.splash_potion.effect.air_breathing": "Splash Potion of Air Breathing",
+	"item.minecraft.splash_potion.effect.long_air_breathing": "Splash Potion of Air Breathing",
+	"item.minecraft.lingering_potion.effect.air_breathing": "Lingering Potion of Air Breathing",
+	"item.minecraft.lingering_potion.effect.long_air_breathing": "Lingering Potion of Air Breathing",
+	"item.minecraft.tipped_arrow.effect.air_breathing": "Arrow of Air Breathing",
+	
+	"effect.origins.venom": "Venom",
+	"effect.origins.air_breathing": "Air Breathing",
+	
+	"death.attack.dryout": "%1$s was out of the water for too long.",
+	
+	"commands.origin.origin_not_found": "Unknown origin: %s",
+	"commands.origin.set.success.single": "Set origin of %s to %s",
+	"commands.origin.set.success.multiple": "Set origin of %s targets to %s",
+	
+	"key.category.origins": "Origins",
+	"key.origins.use_power": "Use Power",
+	"key.origins.view_origin": "View Origin Description"
+}

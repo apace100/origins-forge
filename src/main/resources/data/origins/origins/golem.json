@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:natural_armor",
+		"origins:extra_inventory",
+		"origins:slowness",
+		"origins:bad_sun_vision",
+		"origins:no_shield"
+	],
+	"icon": [
+		"minecraft:clay"
+	],
+	"order": 3
+}

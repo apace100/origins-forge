@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:no_fall_damage",
+		"origins:jump_boost",
+		"origins:scare_creepers",
+		"origins:nine_lives",
+		"origins:weak_stone_breaking"
+	],
+	"icon": [
+		"minecraft:white_wool"
+	],
+	"order": 2
+}

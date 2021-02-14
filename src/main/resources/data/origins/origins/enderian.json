@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins:throw_ender_pearl",
+		"origins:no_pumpkin_pie",
+		"origins:hurtful_water"
+	],
+	"icon": [
+		"minecraft:ender_pearl"
+	],
+	"order": 7
+}

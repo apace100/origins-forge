@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:spiderweb",
+		"origins:less_hp",
+		"origins:only_meat"
+	],
+	"icon": [
+		"minecraft:cobweb"
+	],
+	"order": 3
+}

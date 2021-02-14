@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:more_xp",
+		"origins:photosynthesis",
+		"origins:lucky_composter",
+		"origins:hurt_on_log_break",
+		"origins:burn_forever"
+	],
+	"icon": [
+		"minecraft:oak_sapling"
+	],
+	"order": 3
+}
